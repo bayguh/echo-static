@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	assetfs "github.com/elazarl/go-bindata-assetfs"
-	"github.com/labstack/echo"
+	"github.com/labstack/echo/v4"
 )
 
 const version = "0.0.1"
